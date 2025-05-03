@@ -31,7 +31,7 @@ Cloner le projet, installer les dépendances et tout exécuter d'un coup :
 
 ```bash
 git clone https://github.com/ondouavivi/budget_analyst.git
-cd budget-ecarts-analyse
+cd budget_analyst
 pip install -r requirements.txt
 python run_all.py
 ```
@@ -55,6 +55,7 @@ Pour analyser les écarts avec SQL :
 ```bash
 sqlite3 budget.db < sql_queries.sql
 ```
+## Graphique image png
 
 Cela affichera :
 
