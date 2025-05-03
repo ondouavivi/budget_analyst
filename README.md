@@ -30,7 +30,7 @@ Avant de commencer, assurez-vous d'avoir :
 Cloner le projet, installer les dépendances et tout exécuter d'un coup :
 
 ```bash
-git clone https://github.com/votre-utilisateur/budget-ecarts-analyse.git
+git clone https://github.com/ondouavivi/budget_analyst.git
 cd budget-ecarts-analyse
 pip install -r requirements.txt
 python run_all.py
